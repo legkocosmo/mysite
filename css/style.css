@@ -1,4 +1,11 @@
-@import "normalize.css";
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   background-color: #202020;
@@ -101,3 +108,26 @@ body {
   background: #f5f5f5 url(../img/avatar.jpg) no-repeat top center/cover;
   background-position: 20px 30px;
 }
+
+/*feature*/
+.features {
+  background-color: #000000;
+}
+.container {
+}
+.section-title {
+}
+.features-block {
+}
+.features-item {
+}
+.features-img {
+}
+.features-title {
+}
+.features-text {
+}
+
+
+
+
