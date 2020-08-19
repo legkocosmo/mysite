@@ -30,6 +30,7 @@ body {
 }
 .social-link {
   margin-left: 20px;
+  text-decoration: none;
 }
 
 .hero-content {
