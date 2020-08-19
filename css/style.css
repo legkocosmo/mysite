@@ -45,6 +45,7 @@ body {
   display: inline-block;
   margin-bottom: 15px;
 }
+
 .hero-title {
   font-weight: bold;
   font-size: 50px;
@@ -53,6 +54,7 @@ body {
   margin-top: 0;
   margin-bottom: 20px;
 }
+
 .hero-description {
   max-width: 420px;
   margin-bottom: 38px;
@@ -86,7 +88,6 @@ body {
 .button:hover {
   box-shadow: none;
 }
-
 
 .hero-avatar {
   width: 389px;
