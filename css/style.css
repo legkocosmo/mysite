@@ -118,6 +118,7 @@ body {
 .section-title {
 }
 .features-block {
+  display: flex;
 }
 .features-item {
 }
