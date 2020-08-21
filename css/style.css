@@ -214,6 +214,7 @@ input:focus {
   display: flex;
   flex-wrap: wrap;
   flex-basis: 60%;
+  margin-left: 30px;
 }
 
 .project-title {
@@ -326,7 +327,7 @@ input:focus {
 }
 
 .contacts-text {
-  flex-basis: 50%;
+  flex-basis: 45%;
 }
 
 .contacts-data {
@@ -427,6 +428,10 @@ input:focus {
     margin: auto auto 30px;
   }
 
+  .project-text {
+    margin-right: 0;
+  }
+  
   .contacts-block {
     flex-direction: column;
   }
